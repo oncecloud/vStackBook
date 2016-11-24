@@ -1,5 +1,6 @@
 ## vStackBook
-vStackBook 是开源项目 [vStack](https://github.com/oncecloud) 的项目文档，文档包含vStack项目相关架构分析、二次开发等内容。
+[vStackBook](https://once.gitbooks.io/vstack/content/) 是开源项目 [vStack](https://github.com/oncecloud) 的项目文档，文档包含vStack项目相关架构分析、二次开发等内容。
+浏览地址：https://once.gitbooks.io/vstack/content/
 
 ## vStack介绍
 
